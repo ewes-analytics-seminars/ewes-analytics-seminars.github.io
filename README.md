@@ -1,3 +1,3 @@
 # ewes-analytics-seminars.github.io
 
-test this works
+add stuff about seminars
